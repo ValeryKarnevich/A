@@ -26,7 +26,7 @@ It comprises 16 distinct attributes describing their area, perimeter, roundness,
 
 The attributes contained in the dataset are various numerical geometric properties. The properties were derived from pistachio images. The figure below illustrates the principal geometry of a pistachio image:
 
-![image-2.png](attachment:image-2.png)
+![Pistachio geometry](pistachio_geometry.png)
 
 **<center>Figure 1. Pistachio geometry</center>**
 <center>(from OZKAN IA., KOKLU M. and SARACOGLU R. (2021). Classification of Pistachio Species Using Improved K-NN Classifier. Progress in Nutrition, Vol. 23, N. 2. https://doi.org/10.23751/pn.v23i2.9686.)</center>
